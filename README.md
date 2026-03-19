@@ -14,7 +14,7 @@
     |
     <a href="https://x.com/SameerMali56657">X</a>
     |
-    <a href="https://drive.google.com/file/d/1vDhjK0bw6zSzXj6GQK7xwyGu8XbDwzJZ/view?usp=sharing">Resume</a>
+    <a href="https://drive.google.com/file/d/1GdgIpBJgbUP1fvGwwnH9JQ4Yl7SK5nGV/view?usp=sharing">Resume</a>
   </p>
 </div>
 
